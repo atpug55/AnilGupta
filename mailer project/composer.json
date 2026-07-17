@@ -1,0 +1,15 @@
+{
+    "name": "phpmailer-contact-form/tutorial",
+    "description": "A beginner-friendly PHPMailer contact form project for YouTube tutorial",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "YouTube Tutorial",
+            "email": "tutorial@example.com"
+        }
+    ]
+}
