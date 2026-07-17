@@ -52,5 +52,14 @@ Learning platforms for students and teachers
 - Launch Software Products
 - Participate in National Hackathons
 
+## 💻 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-Developer-orange)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow)
+![PHP](https://img.shields.io/badge/PHP-Backend-purple)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![Git](https://img.shields.io/badge/Git-Version_Control-red)
+
 ---
 ⭐ Always learning and building new things.
